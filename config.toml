@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Grynn Product Catalogue"
+theme = "hugo-shopping-product-catalogue-simple"
